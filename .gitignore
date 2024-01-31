@@ -1,6 +1,6 @@
-#flask를 위한 웹 서버
-
-/Lib
+git remote add origin https://github.com/hjeane/flask_web.git
+git branch -M main
+git push -u origin main/Lib
 /Include
 /Scripts
 pyvenv.cfg
